@@ -1,0 +1,23 @@
+{
+    "name": "manjarodarkplus",
+    "displayName": "ManjaroDark+",
+    "description": "Visual Studio Code Dark+ Theme adjusted to have qualities similar to the color scheme found in Manjaro.",
+    "version": "0.0.1",
+    "author": {"name": "GeekOfWires","email": "geekofwires@vivaldi.net", "url": "https://geekofwires.com"},
+    "publisher": "GeekOfWires",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Manjaro Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ManjaroDarkPlus-color-theme.json"
+            }
+        ]
+    }
+}

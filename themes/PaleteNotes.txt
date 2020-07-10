@@ -1,0 +1,20 @@
+ "workbench.colorCustomizations": 
+    {
+        "activityBar.foreground": "#34be5b",
+        "editor.background": "#263238",
+        "activityBar.background": "#263238",
+        "activityBar.activeBackground": "#222D32",
+        "sideBar.background": "#222D32",
+        "tab.inactiveBackground": "#263238",
+        "tab.activeBackground": "#222D32",
+
+        "editorIndentGuide.background": "#126939",
+
+        "gitlens.trailingLineForegroundColor": "#126939",
+        "tab.border": "#222D32",
+        "editorGroupHeader.tabsBackground": "#263238",
+
+        "titleBar.activeBackground": "#263238",
+        "titleBar.inactiveBackground": "#222D32",
+        "border"
+    }
